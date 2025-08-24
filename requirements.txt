@@ -1,0 +1,5 @@
+sounddevice
+pywhispercpp
+ollama
+textual
+numpy
